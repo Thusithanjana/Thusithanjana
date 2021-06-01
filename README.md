@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Thusithanjana from Sri Lanka. I am currently as an Academic at Sri Lanka Institute of Information Technology. I have completed my M.Sc. in Applied Electronics and B.Sc. in Electrical and Electronic Engineering. Currently I am following an M.Phil. in Computer Science. I consider myself as a researcher, developer and a teacher.
+I'm Thusithanjana from Sri Lanka. I am currently working as an Academic at Sri Lanka Institute of Information Technology. I have completed my M.Sc. in Applied Electronics and B.Sc. in Electrical and Electronic Engineering. Currently I am following an M.Phil. in Computer Science. I consider myself as a researcher, developer and a teacher.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thusithanjana)](https://github.com/anuraghazra/github-readme-stats)
 
